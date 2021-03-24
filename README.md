@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @molorunfunmi
-- 👀 I’m interested in ...all things coding and programming 
+- 👀 I’m interested in ...all things coding and programming related
 - 🌱 I’m currently learning ...PHP
-- 💞️ I’m looking to collaborate on ...creative and technical projects
+- 💞️ I’m looking to collaborate on ...all things tech (creative and techincal projects)
 - 📫 How to reach me ...olorunfunmi@live.ca
 
 <!---
